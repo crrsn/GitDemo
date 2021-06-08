@@ -1,5 +1,5 @@
 def myprint(var):
-  print('myfun' + var)
+  print(var+'myprint')
 
 def m2():
   pass
