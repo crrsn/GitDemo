@@ -3,3 +3,6 @@ def myprint(var):
 
 def m2():
   pass
+
+def m21():
+  pass
