@@ -1,7 +1,8 @@
 # This is a main.py
 
 import time
+import myfun
 
 time.sleep(1)
 
-print('Hello World~')
+myfun.myprint('Hello World')
