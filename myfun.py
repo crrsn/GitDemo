@@ -9,3 +9,6 @@ def myprint2():
 
 def m21():
   pass
+
+def newFun():
+  pass
